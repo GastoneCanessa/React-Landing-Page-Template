@@ -67,34 +67,33 @@
   ],
   "Services": [
     {
-      "img": "../img/about.jpg",
+      "img": "../img/services/consulenza.jpg",
       "icon": "fa fa-wordpress",
       "name": "Consulenze",
       "text": "Consulenze in biotecnologie agrarie ed industriali, scopri quali applicazioni innovative possono avere i tuoi prodott."
     },
     {
-      "img": "../img/about.jpg",
-      "icon": "fa fa-solid fa-cube",
-      "name": "Stampa 3D",
-      "text": "Stampa 3D FDM con materiali rinforzati in fibra di carbonio: realizza il tuo modello con i materiali più adatti alle tue esigenze."
-    },
-    {
-      "img": "../img/about.jpg",
+      "img": "../img/services/prototipazione.jpg",
       "icon": "fa fa-cloud-download",
       "name": "Prototipazione",
       "text": "Prototipazione personalizzata alle tue esigenze: progettiamo insieme la tua idea e realizziamola."
     },
     {
-      "img": "../img/about.jpg",
-      "icon": "fa fa-language",
-      "name": "Produzione di biomateriali",
-      "text": "Produzione di biomateriali tramite micelio: sperimentiamo insieme come valorizzare i tuoi prodotti o sottoprodotti agricoli."
+      "img": "../img/services/stampa3D.jpg",
+      "icon": "fa fa-solid fa-cube",
+      "name": "Stampa 3D",
+      "text": "Stampa 3D FDM con materiali rinforzati in fibra di carbonio: realizza il tuo modello con i materiali più adatti alle tue esigenze."
     },
     {
-      "img": "../img/about.jpg",
+      "img": "../img/services/cnc.jpg",
       "icon": "fa fa-plane",
       "name": "Lavorazioni con fresa CNC",
       "text": "Lavorazioni con fresa CNC per Nylon, Teflon e alluminio: realizziamo le componenti più critiche del tuo progetto con materiali resistenti e su misura.."
+    }, {
+      "img": "../img/services/biomateriali.jpg",
+      "icon": "fa fa-language",
+      "name": "Produzione di biomateriali",
+      "text": "Produzione di biomateriali tramite micelio: sperimentiamo insieme come valorizzare i tuoi prodotti o sottoprodotti agricoli."
     }
   ],
   "Testimonials": [

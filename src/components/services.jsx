@@ -17,7 +17,10 @@ export const Services = (props) => {
                 <div key={`${d.name}-${i}`} className="col-md-4">
                   {" "}
                   {/* <i className={d.icon}></i> */}
-                  <div className="service-icon" style={{ backgroundImage: `url(${d.img})` }}></div>
+                  
+                  <div className="parent-container">
+                    <div className="service-icon" style={{ backgroundImage: `url(${d.img})` }}></div>
+                  </div>
 
                   <div className="service-desc">
                     <h3>{d.name}</h3>

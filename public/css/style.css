@@ -359,9 +359,24 @@ header .intro-text {
   border-radius: 50%; 
 } */
 
+.row {
+
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap; 
+
+}
+
+
+.parent-container {
+  display: flex; /* Usa Flexbox per centrare */
+  justify-content: center; /* Allinea orizzontalmente */
+  align-items: center; /* Allinea verticalmente */
+}
+
 .service-icon {
-  width: 120px; /* Dimensione del div */
-  height: 120px; /* Altezza uguale alla larghezza per creare un cerchio perfetto */
+  width: 150px; /* Dimensione del div */
+  height: 150px; /* Altezza uguale alla larghezza per creare un cerchio perfetto */
   background-size: cover; /* L'immagine copre tutto il div */
   background-position: center; /* Centra l'immagine all'interno del div */
   border-radius: 50%; /* Rende il div rotondo */
@@ -631,4 +646,12 @@ label {
   #about img {
     margin: 50px 0;
   }
+}
+
+/* project one */
+
+/* Project One Section */
+#pjOne {
+  padding: 100px 0;
+  background: #f6f6f6;
 }
