@@ -17,9 +17,7 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
-          <a className="navbar-brand page-scroll" href="#page-top">
-            React Landing Page
-          </a>{" "}
+          <img src="../img/Logo-green.png" alt="Explantis Logo" style={{ height: "50px"}} />
         </div>
 
         <div
@@ -29,27 +27,27 @@ export const Navigation = (props) => {
           <ul className="nav navbar-nav navbar-right">
             <li>
               <a href="#features" className="page-scroll">
-                Features
+              Caratteristiche
               </a>
             </li>
             <li>
               <a href="#about" className="page-scroll">
-                About
+              Chi siamo
               </a>
             </li>
             <li>
               <a href="#services" className="page-scroll">
-                Services
+                Servizi
               </a>
             </li>
             <li>
               <a href="#portfolio" className="page-scroll">
-                Gallery
+                Galleria
               </a>
             </li>
             <li>
               <a href="#testimonials" className="page-scroll">
-                Testimonials
+                Referenze
               </a>
             </li>
             <li>
@@ -59,7 +57,7 @@ export const Navigation = (props) => {
             </li>
             <li>
               <a href="#contact" className="page-scroll">
-                Contact
+                Contatti
               </a>
             </li>
           </ul>
