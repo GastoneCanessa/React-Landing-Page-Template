@@ -130,30 +130,30 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
+      "img": "https://media.licdn.com/dms/image/v2/D4D03AQGA-oDMLURLmg/profile-displayphoto-shrink_400_400/B4DZP.mKatGgAg-/0/1735143238142?e=1744243200&v=beta&t=tnUtVgXd_vkgOv4ptkMxOqTrnwbf7mlZflDPTv9eG1c",
+      "name": "Valerio Cappelli",
       "job": "Director"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
+      "img": "https://media.licdn.com/dms/image/v2/D5603AQELUbMwzGhV4g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1725864764673?e=1744243200&v=beta&t=TwBFYHalzrMAzeLZb2QTsWDmvCC2DfdRkzNMGI6yAMg",
+      "name": "Pietro Costanzi",
       "job": "Senior Designer"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
+      "img": "https://media.licdn.com/dms/image/v2/D5603AQHueXFLT6DK0Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725874284708?e=1744243200&v=beta&t=PpKoxFk9SEmwXhXIgmWDWWDvU6p6yYuI6iJBEAN-tUY",
+      "name": "Lorenzo Trincone",
       "job": "Senior Designer"
     },
     {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
+      "img": "https://media.licdn.com/dms/image/v2/D4E03AQGTGPHxmOzEog/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1677599066625?e=1744243200&v=beta&t=j7YEc3Iz5WzfcEKOB-sWelXCpgyuEdjIyGFqLB7mho8",
+      "name": "Gastone Canessa",
       "job": "Project Manager"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
+    "address": "Campagnano di Roma ",
     "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "email": "explantis@company.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
