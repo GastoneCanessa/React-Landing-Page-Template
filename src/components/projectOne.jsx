@@ -34,7 +34,7 @@ export const ProjectOne = (props) => {
           </div>
           <div className="col-xs-12 col-md-6">
               {" "}
-              <img src="img/projectOne/bio_reactor.jpg" className="img-responsive" alt="" />{" "}
+              <img src="img/our/pietro_pc1.jpg" className="img-responsive" alt="" />{" "}
             </div>
         </div>
       </div>

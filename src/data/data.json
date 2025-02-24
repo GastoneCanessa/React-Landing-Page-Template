@@ -18,51 +18,81 @@
       "Qualità e Precisione"
     ]
   },
+  "ProjectOne": {
+    "paragraph": "Il Bioreattore per la micropropagazione di Explantis è un dispositivo innovativo che ha lo scopo di ridurre la manodopera duramente il processo di micropropagazione ed accelerare la velocità di crescita degli espianti. Il prototipo è composto da due parti principali: La camera interna, dove vengono posizionati gli espianti da propagare e la doppia camera stagna esterna, che contiene il substrato liquido e separa l’ambiente sterile dall’esterno.  ",
+    "Why": [
+      "Multidisciplinarità",
+      "Creatività",
+      "Passione",
+      "Competenza"
+    ],
+    "Why2": [
+      "Approccio Personalizzato",
+      "Adatabilità e Agilità",
+      "Visione Strategica",
+      "Qualità e Precisione"
+    ]
+  },
+  "ProjectTwo": {
+    "paragraph": "Explantis sta sperimentando la produzione di biomateriali attraverso l’utilizzo di miceli fungini in grado di compattare le matrici organiche e conferire: resistenza meccanica, capacità coibentanti e resistenza alle alte temperature e al fuoco. Le numerose matrici utilizzabili in miscela e le diverse caratteristiche dei miceli fungini rendono la loro applicazione estremamente versatile. attualmente la nostra attività di sperimentazione è finalizzata alla ricerca di metodi di stabilizzazione dei materiali in post-produzione che siano compatibili con una produzione in larga scala.  ",
+    "Why": [
+      "Multidisciplinarità",
+      "Creatività",
+      "Passione",
+      "Competenza"
+    ],
+    "Why2": [
+      "Approccio Personalizzato",
+      "Adatabilità e Agilità",
+      "Visione Strategica",
+      "Qualità e Precisione"
+    ]
+  },
   "Gallery": [
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "largeImage": "img/our/settaggio_CNC1.jpg",
+      "smallImage": "img/our/settaggio_CNC1.jpg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "largeImage": "img/our/settaggio_stampante3D1.jpg",
+      "smallImage": "img/our/settaggio_stampante3D1.jpg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "largeImage": "img/our/stampante_resina1.jpg",
+      "smallImage": "img/our/stampante_resina1.jpg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "largeImage": "img/our/balletta1.jpg",
+      "smallImage": "img/our/balletta1.jpg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "largeImage": "img/our/balletta2.jpg",
+      "smallImage": "img/our/balletta2.jpg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "largeImage": "img/our/pietro_balletta1.jpg",
+      "smallImage": "img/our/pietro_balletta1.jpg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "largeImage": "img/our/bancone_laterale.jpg",
+      "smallImage": "img/our/bancone_laterale.jpg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "largeImage": "img/our/pietro_pc1.jpg",
+      "smallImage": "img/our/pietro_pc1.jpg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "largeImage": "img/our/primopiano_bancone1.jpg",
+      "smallImage": "img/our/primopiano_bancone1.jpg"
     }
   ],
   "Services": [
@@ -90,7 +120,7 @@
       "name": "Lavorazioni con fresa CNC",
       "text": "Lavorazioni con fresa CNC per Nylon, Teflon e alluminio: realizziamo le componenti più critiche del tuo progetto con materiali resistenti e su misura.."
     }, {
-      "img": "../img/services/biomateriali.jpg",
+      "img": "../img/our/pietro_cappone.jpg",
       "icon": "fa fa-language",
       "name": "Produzione di biomateriali",
       "text": "Produzione di biomateriali tramite micelio: sperimentiamo insieme come valorizzare i tuoi prodotti o sottoprodotti agricoli."
@@ -147,6 +177,11 @@
     {
       "img": "https://media.licdn.com/dms/image/v2/D4E03AQGTGPHxmOzEog/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1677599066625?e=1744243200&v=beta&t=j7YEc3Iz5WzfcEKOB-sWelXCpgyuEdjIyGFqLB7mho8",
       "name": "Gastone Canessa",
+      "job": "Project Manager"
+    },
+    {
+      "img": "img/our/team/gabbo.jpg",
+      "name": "Gabriele Vitiello",
       "job": "Project Manager"
     }
   ],
