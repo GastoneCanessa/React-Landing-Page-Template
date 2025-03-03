@@ -4,7 +4,7 @@
     "paragraph": "Sfruttiamo l'innovazione delle biotecnologie e della stampa 3D per creare soluzioni avanzate e prototipi unici. Trasformiamo le idee in realtà, passo dopo passo."
   },
   "About": {
-    "paragraph": "Siamo una startup all'avanguardia nel settore biotech, specializzata in servizi di consulenza, sperimentazione e prototipazione avanzata per il settore scientifico ed i laboratori. Utilizziamo tecnologie innovative come la stampa 3D e i biomateriali per trasformare le sfide in opportunità di crescita. La nostra missione è creare un ponte tra industria e ricerca, accelerando l'innovazione e supportando ricercatori e laboratori nel raggiungere nuovi traguardi. Scopri come la nostra visione può rivoluzionare il futuro della ricerca e dello sviluppo.",
+    "paragraph": "Siamo una startup innovativa nel settore biotech, specializzata nella progettazione, prototipazione e sperimentazione di soluzioni per il settore scientifico e l’industria, basate su un approccio multidisciplinare con l’utilizzo della stampa 3D e dei biomateriali. Il nostro Team è composto da un gruppo di giovani professionisti con diverse competenze, maturate in ambiente di ricerca e industriale, nel campo della biologia, dell’agronomia e dell’informatica. La nostra missione è creare soluzioni personalizzate per l’industria e la ricerca, accelerando l'innovazione nel raggiungere nuovi traguardi.",
     "Why": [
       "Multidisciplinarità",
       "Creatività",
@@ -19,7 +19,7 @@
     ]
   },
   "ProjectOne": {
-    "paragraph": "Il Bioreattore per la micropropagazione di Explantis è un dispositivo innovativo che ha lo scopo di ridurre la manodopera duramente il processo di micropropagazione ed accelerare la velocità di crescita degli espianti. Il prototipo è composto da due parti principali: La camera interna, dove vengono posizionati gli espianti da propagare e la doppia camera stagna esterna, che contiene il substrato liquido e separa l’ambiente sterile dall’esterno.  ",
+    "paragraph": "Il Bioreattore per la micropropagazione di Explantis è un dispositivo innovativo che ha lo scopo di ridurre la manodopera durante il processo di micropropagazione ed accelerare la velocità di crescita degli espianti. Il prototipo ha strutture e geometrie che consentono di far crescere i germogli all’interno di una matrice,  per meccanizzare le operazioni di lavorazione dei germogli. Inoltre, grazie all’innovativo metodo di somministrazione del mezzo nutritivo, permette un’ottimale ossigenazione del substrato e un’agevole gestione nei processi di subcoltura. Tutto il sistema è accoppiato ad un modulo di controllo, attraverso il quale è possibile programmare da remoto i cicli ed il tempo di bagnatura. ",
     "Why": [
       "Multidisciplinarità",
       "Creatività",
@@ -34,7 +34,7 @@
     ]
   },
   "ProjectTwo": {
-    "paragraph": "Explantis sta sperimentando la produzione di biomateriali attraverso l’utilizzo di miceli fungini in grado di compattare le matrici organiche e conferire: resistenza meccanica, capacità coibentanti e resistenza alle alte temperature e al fuoco. Le numerose matrici utilizzabili in miscela e le diverse caratteristiche dei miceli fungini rendono la loro applicazione estremamente versatile. attualmente la nostra attività di sperimentazione è finalizzata alla ricerca di metodi di stabilizzazione dei materiali in post-produzione che siano compatibili con una produzione in larga scala.  ",
+    "paragraph": "Explantis sta sperimentando la produzione di biomateriali attraverso l’utilizzo di miceli fungini in grado di compattare le matrici organiche e conferire: resistenza meccanica, capacità coibentanti e resistenza alle alte temperature e al fuoco. Le numerose matrici utilizzabili in miscela e le diverse caratteristiche dei miceli fungini rendono la loro applicazione estremamente versatile. Attualmente la nostra attività di sperimentazione è finalizzata alla ricerca di metodi di stabilizzazione dei materiali in post-produzione che siano compatibili con una produzione in larga scala. ",
     "Why": [
       "Multidisciplinarità",
       "Creatività",
@@ -51,11 +51,6 @@
   "Gallery": [
     {
       "title": "Project Title",
-      "largeImage": "img/our/settaggio_CNC1.jpg",
-      "smallImage": "img/our/settaggio_CNC1.jpg"
-    },
-    {
-      "title": "Project Title",
       "largeImage": "img/our/settaggio_stampante3D1.jpg",
       "smallImage": "img/our/settaggio_stampante3D1.jpg"
     },
@@ -66,8 +61,8 @@
     },
     {
       "title": "Project Title",
-      "largeImage": "img/our/balletta1.jpg",
-      "smallImage": "img/our/balletta1.jpg"
+      "largeImage": "img/our/bancone_laterale.jpg",
+      "smallImage": "img/our/bancone_laterale.jpg"
     },
     {
       "title": "Project Title",
@@ -81,18 +76,22 @@
     },
     {
       "title": "Project Title",
-      "largeImage": "img/our/bancone_laterale.jpg",
-      "smallImage": "img/our/bancone_laterale.jpg"
+      "largeImage": "img/our/balletta1.jpg",
+      "smallImage": "img/our/balletta1.jpg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/our/pietro_pc1.jpg",
-      "smallImage": "img/our/pietro_pc1.jpg"
+      "largeImage": "img/our/balletta3.jpg",
+      "smallImage": "img/our/balletta3.jpg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/our/primopiano_bancone1.jpg",
-      "smallImage": "img/our/primopiano_bancone1.jpg"
+      "largeImage": "img/our/scansione3D.jpg",
+      "smallImage": "img/our/scansione3D.jpg"
+    },   {
+      "title": "Project Title",
+      "largeImage": "img/our/settaggio_CNC2.jpg",
+      "smallImage": "img/our/settaggio_CNC2.jpg"
     }
   ],
   "Services": [
@@ -100,7 +99,7 @@
       "img": "../img/services/consulenza.jpg",
       "icon": "fa fa-wordpress",
       "name": "Consulenze",
-      "text": "Consulenze in biotecnologie agrarie ed industriali, scopri quali applicazioni innovative possono avere i tuoi prodott."
+      "text": "Consulenze in biotecnologie agrarie ed industriali, scopri quali applicazioni innovative possono avere i tuoi prodotti."
     },
     {
       "img": "../img/services/prototipazione.jpg",
@@ -112,13 +111,13 @@
       "img": "../img/services/stampa3D.jpg",
       "icon": "fa fa-solid fa-cube",
       "name": "Stampa 3D",
-      "text": "Stampa 3D FDM con materiali rinforzati in fibra di carbonio: realizza il tuo modello con i materiali più adatti alle tue esigenze."
+      "text": "Stampa 3D con materiali rinforzati in fibra di carbonio: realizza il tuo modello con i materiali più adatti alle tue esigenze."
     },
     {
       "img": "../img/services/cnc.jpg",
       "icon": "fa fa-plane",
       "name": "Lavorazioni con fresa CNC",
-      "text": "Lavorazioni con fresa CNC per Nylon, Teflon e alluminio: realizziamo le componenti più critiche del tuo progetto con materiali resistenti e su misura.."
+      "text": "Lavorazioni con fresa CNC per Nylon, Teflon e alluminio: realizziamo le componenti più critiche del tuo progetto con materiali resistenti e su misura."
     }, {
       "img": "../img/our/pietro_cappone.jpg",
       "icon": "fa fa-language",
@@ -160,35 +159,40 @@
   ],
   "Team": [
     {
-      "img": "https://media.licdn.com/dms/image/v2/D4D03AQGA-oDMLURLmg/profile-displayphoto-shrink_400_400/B4DZP.mKatGgAg-/0/1735143238142?e=1744243200&v=beta&t=tnUtVgXd_vkgOv4ptkMxOqTrnwbf7mlZflDPTv9eG1c",
+      "img": "img/our/team/valerio.jpg",
       "name": "Valerio Cappelli",
-      "job": "Director"
+      "job": "Legal Affairs Specialist",
+      "linkedin": "https://www.linkedin.com/in/valerio-cappelli-030a22232/"
     },
     {
       "img": "https://media.licdn.com/dms/image/v2/D5603AQELUbMwzGhV4g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1725864764673?e=1744243200&v=beta&t=TwBFYHalzrMAzeLZb2QTsWDmvCC2DfdRkzNMGI6yAMg",
       "name": "Pietro Costanzi",
-      "job": "Senior Designer"
+      "job": "CEO, Biology & Biotechnology Specialist",
+      "linkedin": "https://www.linkedin.com/in/pietro-costanzi-99535a2b1/"
     },
     {
       "img": "https://media.licdn.com/dms/image/v2/D5603AQHueXFLT6DK0Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725874284708?e=1744243200&v=beta&t=PpKoxFk9SEmwXhXIgmWDWWDvU6p6yYuI6iJBEAN-tUY",
       "name": "Lorenzo Trincone",
-      "job": "Senior Designer"
+      "job": "Agronomy & Biotechnology Specialist",
+      "linkedin": "Project Manager"
     },
     {
-      "img": "https://media.licdn.com/dms/image/v2/D4E03AQGTGPHxmOzEog/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1677599066625?e=1744243200&v=beta&t=j7YEc3Iz5WzfcEKOB-sWelXCpgyuEdjIyGFqLB7mho8",
+      "img": "img/our/team/gastone.jpg",
       "name": "Gastone Canessa",
-      "job": "Project Manager"
+      "job": "3D Printing, Prototyping & IT Specialist",
+      "linkedin": "Project Manager"
     },
     {
       "img": "img/our/team/gabbo.jpg",
       "name": "Gabriele Vitiello",
-      "job": "Project Manager"
+      "job": "Business & Economics Specialist",
+      "linkedin": "Project Manager"
     }
   ],
   "Contact": {
     "address": "Campagnano di Roma ",
-    "phone": "+1 123 456 1234",
-    "email": "explantis@company.com",
+    "phone": "+39 351 876 0936",
+    "email": "www.explantis.it",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"

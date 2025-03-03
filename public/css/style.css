@@ -538,7 +538,7 @@ header .intro-text {
 }
 
 #team .thumbnail .caption {
-  padding: 10px 0 0;
+  padding: 0px 0 0;
   color: #888;
 }
 
@@ -651,7 +651,7 @@ label {
 }
 
 #contact .contact-item {
-  margin: 0px 100;
+  margin: 40px 50px;
 }
 
 #contact .contact-item span {
@@ -760,4 +760,8 @@ img {
   #pjOne {
     padding: 60px 0; /* invece di 100px */
   }
+}
+
+.swiper-wrapper {
+  height: auto !important; /* Modificato per adattarsi al contenuto */
 }

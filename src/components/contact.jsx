@@ -46,29 +46,29 @@ export const Contact = (props) => {
               </div>
             </div>
           </div>
-          <div className=" ">
+          <div className="row">
             <div className="contact-item">
               <p>
                 <span>
-                  <i className="fa fa-map-marker"></i> Indirizzo
+                  <i className="fa fa-map-marker"></i> <b>Indirizzo:</b> {props.data ? props.data.address : "loading"}
                 </span>
-                {props.data ? props.data.address : "loading"}
+                
               </p>
             </div>
             <div className="contact-item">
               <p>
                 <span>
-                  <i className="fa fa-phone"></i> Telefono
+                  <i className="fa fa-phone"></i> <b>Telefono:</b> {props.data ? props.data.phone : "loading"}
                 </span>{" "}
-                {props.data ? props.data.phone : "loading"}
+                
               </p>
             </div>
             <div className="contact-item">
               <p>
                 <span>
-                  <i className="fa fa-envelope-o"></i> Email
+                  <i className="fa fa-envelope-o"></i> <b>Email:</b> {props.data ? props.data.email : "loading"}
                 </span>{" "}
-                {props.data ? props.data.email : "loading"}
+                
               </p>
             </div>
           </div>
