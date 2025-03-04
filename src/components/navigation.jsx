@@ -17,7 +17,7 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
-          <img src="../img/Logo-green.png" alt="Explantis Logo" style={{ height: "50px"}} />
+          <img src="../img/expla.png" alt="Explantis Logo" style={{ height: "50px"}} />
         </div>
 
         <div
