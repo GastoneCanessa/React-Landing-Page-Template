@@ -11,8 +11,7 @@ export const Team = (props) => {
         <div className="col-md-12  section-title">
           <h2>Il nostro team</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Competenze, creatività e determinazione: ecco chi siamo.
           </p>
         </div>
         <div className="col-md-12  section-title">

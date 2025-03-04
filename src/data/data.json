@@ -19,7 +19,7 @@
     ]
   },
   "ProjectOne": {
-    "paragraph": "Il Bioreattore per la micropropagazione di Explantis è un dispositivo innovativo che ha lo scopo di ridurre la manodopera durante il processo di micropropagazione ed accelerare la velocità di crescita degli espianti. Il prototipo ha strutture e geometrie che consentono di far crescere i germogli all’interno di una matrice,  per meccanizzare le operazioni di lavorazione dei germogli. Inoltre, grazie all’innovativo metodo di somministrazione del mezzo nutritivo, permette un’ottimale ossigenazione del substrato e un’agevole gestione nei processi di subcoltura. Tutto il sistema è accoppiato ad un modulo di controllo, attraverso il quale è possibile programmare da remoto i cicli ed il tempo di bagnatura. ",
+    "paragraph": "Il Bioreattore per la micropropagazione di Explantis è un dispositivo innovativo che ha lo scopo di ridurre la manodopera durante il processo di micropropagazione ed accelerare la velocità di crescita degli espianti. Il prototipo ha strutture e geometrie che consentono di far crescere le piante all’interno di una matrice,  per meccanizzare le operazioni di lavorazione dei germogli. Inoltre, grazie all’innovativo metodo di somministrazione del mezzo nutritivo, permette un’ottimale ossigenazione del substrato e un’agevole gestione nei processi di subcoltura. Tutto il sistema è accoppiato ad un modulo di controllo, attraverso il quale è possibile programmare da remoto i cicli ed il tempo di bagnatura. ",
     "Why": [
       "Multidisciplinarità",
       "Creatività",
@@ -50,27 +50,27 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "Configurazione di stampa",
       "largeImage": "img/our/settaggio_stampante3D1.jpg",
       "smallImage": "img/our/settaggio_stampante3D1.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Stampante SLA",
       "largeImage": "img/our/stampante_resina1.jpg",
       "smallImage": "img/our/stampante_resina1.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Tools",
       "largeImage": "img/our/bancone_laterale.jpg",
       "smallImage": "img/our/bancone_laterale.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Biomateriali da micelio",
       "largeImage": "img/our/balletta2.jpg",
       "smallImage": "img/our/balletta2.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Incubazione controllata",
       "largeImage": "img/our/pietro_balletta1.jpg",
       "smallImage": "img/our/pietro_balletta1.jpg"
     },
@@ -80,16 +80,16 @@
       "smallImage": "img/our/balletta1.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Bio edilizia",
       "largeImage": "img/our/balletta4.jpg",
       "smallImage": "img/our/balletta4.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Scansioni 3D",
       "largeImage": "img/our/scansione.jpg",
       "smallImage": "img/our/scansione.jpg"
     },   {
-      "title": "Project Title",
+      "title": "Lavorazioni CNC",
       "largeImage": "img/our/settaggio_CNC3.jpg",
       "smallImage": "img/our/settaggio_CNC3.jpg"
     }
@@ -97,30 +97,25 @@
   "Services": [
     {
       "img": "../img/services/consulenza.jpg",
-      "icon": "fa fa-wordpress",
       "name": "Consulenze",
       "text": "Consulenze in biotecnologie agrarie ed industriali, scopri quali applicazioni innovative possono avere i tuoi prodotti."
     },
     {
       "img": "../img/services/prototipazione.jpg",
-      "icon": "fa fa-cloud-download",
       "name": "Prototipazione",
       "text": "Prototipazione personalizzata alle tue esigenze: progettiamo insieme la tua idea e realizziamola."
     },
     {
       "img": "../img/services/stampa3D.jpg",
-      "icon": "fa fa-solid fa-cube",
       "name": "Stampa 3D",
       "text": "Stampa 3D con materiali rinforzati in fibra di carbonio: realizza il tuo modello con i materiali più adatti alle tue esigenze."
     },
     {
       "img": "../img/services/cnc.jpg",
-      "icon": "fa fa-plane",
       "name": "Lavorazioni con fresa CNC",
       "text": "Lavorazioni con fresa CNC per Nylon, Teflon e alluminio: realizziamo le componenti più critiche del tuo progetto con materiali resistenti e su misura."
     }, {
       "img": "../img/our/pietro_cappone.jpg",
-      "icon": "fa fa-language",
       "name": "Produzione di biomateriali",
       "text": "Produzione di biomateriali tramite micelio: sperimentiamo insieme come valorizzare i tuoi prodotti o sottoprodotti agricoli."
     }
@@ -165,13 +160,13 @@
       "linkedin": "https://www.linkedin.com/in/valerio-cappelli-030a22232/"
     },
     {
-      "img": "https://media.licdn.com/dms/image/v2/D5603AQELUbMwzGhV4g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1725864764673?e=1744243200&v=beta&t=TwBFYHalzrMAzeLZb2QTsWDmvCC2DfdRkzNMGI6yAMg",
+      "img": "img/our/team/pietro.jpg",
       "name": "Pietro Costanzi",
       "job": "CEO, Biology & Biotechnology Specialist",
       "linkedin": "https://www.linkedin.com/in/pietro-costanzi-99535a2b1/"
     },
     {
-      "img": "https://media.licdn.com/dms/image/v2/D5603AQHueXFLT6DK0Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725874284708?e=1744243200&v=beta&t=PpKoxFk9SEmwXhXIgmWDWWDvU6p6yYuI6iJBEAN-tUY",
+      "img": "img/our/team/lorenzo.jpg",
       "name": "Lorenzo Trincone",
       "job": "Agronomy & Biotechnology Specialist",
       "linkedin": "https://www.linkedin.com/in/lorenzo-trincone-788023323/"
@@ -186,7 +181,7 @@
       "img": "img/our/team/gabbo.jpg",
       "name": "Gabriele Vitiello",
       "job": "Business & Economics Specialist",
-      "linkedin": "Project Manager"
+      "linkedin": "/"
     }
   ],
   "Contact": {
@@ -196,27 +191,6 @@
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
-  },
-  "Features": [
-    {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    }
-  ]
+  }
+  
 }
