@@ -81,17 +81,17 @@
     },
     {
       "title": "Bio edilizia",
-      "largeImage": "img/our/balletta4.jpg",
-      "smallImage": "img/our/balletta4.jpg"
+      "largeImage": "img/our/ballettaq.jpg",
+      "smallImage": "img/our/ballettaq.jpg"
     },
     {
       "title": "Scansioni 3D",
-      "largeImage": "img/our/scansione.jpg",
-      "smallImage": "img/our/scansione.jpg"
+      "largeImage": "img/our/scansione2.jpg",
+      "smallImage": "img/our/scansione2.jpg"
     },   {
       "title": "Lavorazioni CNC",
-      "largeImage": "img/our/settaggio_CNC3.jpg",
-      "smallImage": "img/our/settaggio_CNC3.jpg"
+      "largeImage": "img/our/cnc_mano.jpg",
+      "smallImage": "img/our/cnc_mano.jpg"
     }
   ],
   "Services": [
