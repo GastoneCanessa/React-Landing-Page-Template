@@ -34,7 +34,7 @@
     ]
   },
   "ProjectTwo": {
-    "paragraph": "Explantis sta sperimentando la produzione di biomateriali attraverso l’utilizzo di miceli fungini in grado di compattare le matrici organiche e conferire: resistenza meccanica, capacità coibentanti e resistenza alle alte temperature e al fuoco. Le numerose matrici utilizzabili in miscela e le diverse caratteristiche dei miceli fungini rendono la loro applicazione estremamente versatile. Attualmente la nostra attività di sperimentazione è finalizzata alla ricerca di metodi di stabilizzazione dei materiali in post-produzione che siano compatibili con una produzione in larga scala. ",
+    "paragraph": "Explantis, in collaborazione con Azienda Agricola Salone, sta sperimentando la produzione di biomateriali attraverso l’utilizzo di miceli fungini in grado di compattare le matrici organiche e conferire: resistenza meccanica, capacità coibentanti e resistenza alle alte temperature e al fuoco. Le numerose matrici utilizzabili in miscela e le diverse caratteristiche dei miceli fungini rendono la loro applicazione estremamente versatile. Attualmente la nostra attività di sperimentazione è finalizzata alla ricerca di metodi di stabilizzazione dei materiali in post-produzione che siano compatibili con una produzione in larga scala.",
     "Why": [
       "Multidisciplinarità",
       "Creatività",
@@ -75,11 +75,6 @@
       "smallImage": "img/our/pietro_balletta1.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/our/balletta1.jpg",
-      "smallImage": "img/our/balletta1.jpg"
-    },
-    {
       "title": "Bio edilizia",
       "largeImage": "img/our/ballettaq.jpg",
       "smallImage": "img/our/ballettaq.jpg"
@@ -88,7 +83,11 @@
       "title": "Scansioni 3D",
       "largeImage": "img/our/scansione2.jpg",
       "smallImage": "img/our/scansione2.jpg"
-    },   {
+    },    {
+      "title": "Slicing",
+      "largeImage": "img/our/slicer3.jpg",
+      "smallImage": "img/our/slicer3.jpg"
+    },{
       "title": "Lavorazioni CNC",
       "largeImage": "img/our/cnc_mano.jpg",
       "smallImage": "img/our/cnc_mano.jpg"
@@ -106,50 +105,18 @@
       "text": "Prototipazione personalizzata alle tue esigenze: progettiamo insieme la tua idea e realizziamola."
     },
     {
-      "img": "../img/services/stampa3D.jpg",
+      "img": "../img/services/stampa3dbambu.jpg",
       "name": "Stampa 3D",
       "text": "Stampa 3D con materiali rinforzati in fibra di carbonio: realizza il tuo modello con i materiali più adatti alle tue esigenze."
     },
     {
-      "img": "../img/services/cnc.jpg",
+      "img": "../img/services/cnc4.jpg",
       "name": "Lavorazioni con fresa CNC",
       "text": "Lavorazioni con fresa CNC per Nylon, Teflon e alluminio: realizziamo le componenti più critiche del tuo progetto con materiali resistenti e su misura."
     }, {
       "img": "../img/our/pietro_cappone.jpg",
       "name": "Produzione di biomateriali",
       "text": "Produzione di biomateriali tramite micelio: sperimentiamo insieme come valorizzare i tuoi prodotti o sottoprodotti agricoli."
-    }
-  ],
-  "Testimonials": [
-    {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
     }
   ],
   "Team": [
@@ -188,9 +155,9 @@
     "address": "Campagnano di Roma ",
     "phone": "+39 351 876 0936",
     "email": "www.explantis.it",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "facebook": "https://www.facebook.com/profile.php?id=61570077212522&locale=it_IT",
+    "twitter": "https://x.com/",
+    "youtube": "https://www.youtube.com/"
   }
   
 }
